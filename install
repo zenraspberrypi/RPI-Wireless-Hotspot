@@ -5,7 +5,7 @@ clear
 
 echo "======================================================="
 echo "======== Setting up Raspberry Pi WiFi hotspot ========="
-echo "======================================================="
+echo "=======================ZeN============================="
 
 read -r -p "This script will make changes to your system which may break some applications and may require you to reimage your SD card. Are you sure that you wish to continue? [y/N] " confirm
 
